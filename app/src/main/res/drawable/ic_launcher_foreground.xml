@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Mneme placeholder mark — stylised "M" inside the adaptive-icon safe zone (66dp).
+     Replace with proper artwork at M7 (Play Store launch). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30 L42,30 L54,60 L66,30 L78,30 L78,78 L70,78 L70,46 L60,72 L48,72 L38,46 L38,78 L30,78 Z"/>
+</vector>
