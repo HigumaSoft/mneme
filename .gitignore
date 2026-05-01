@@ -1,0 +1,32 @@
+## Android Studio / IntelliJ
+.idea/
+*.iml
+.gradle/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+## Gradle
+build/
+out/
+
+## Android
+*.apk
+*.aab
+*.ap_
+*.dex
+
+## Keystores & secrets — NEVER commit
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+play-publish.json
+
+## Logs
+*.log
+
+## OS
+.DS_Store
+Thumbs.db

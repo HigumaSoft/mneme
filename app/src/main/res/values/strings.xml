@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mneme</string>
+    <string name="decks_title">Decks</string>
+    <string name="decks_empty">No decks yet. Sign in to Drive or import a CSV.</string>
+    <string name="study_again">Again</string>
+    <string name="study_hard">Hard</string>
+    <string name="study_good">Good</string>
+    <string name="study_easy">Easy</string>
+</resources>

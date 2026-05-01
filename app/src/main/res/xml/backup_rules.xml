@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Drive is the source of truth; local DB is a cache.
+         Excluding it forces a clean re-sync on restore. -->
+    <exclude domain="database" path="mneme.db" />
+</full-backup-content>
